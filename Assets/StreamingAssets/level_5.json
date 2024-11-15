@@ -1,0 +1,258 @@
+{
+    "level": 5,
+    "gridSize": {
+        "rows": 5,
+        "columns": 7
+    },
+    "letters": [
+        {
+            "row": 0,
+            "column": 4,
+            "letter": "П"
+        },
+        {
+            "row": 1,
+            "column": 0,
+            "letter": "С"
+        },
+        {
+            "row": 1,
+            "column": 1,
+            "letter": "У"
+        },
+        {
+            "row": 1,
+            "column": 2,
+            "letter": "П"
+        },
+        {
+            "row": 1,
+            "column": 3,
+            "letter": "Е"
+        },
+        {
+            "row": 1,
+            "column": 4,
+            "letter": "Р"
+        },
+        {
+            "row": 1,
+            "column": 6,
+            "letter": "Р"
+        },
+        {
+            "row": 2,
+            "column": 0,
+            "letter": "Е"
+        },
+        {
+            "row": 2,
+            "column": 2,
+            "letter": "Е"
+        },
+        {
+            "row": 2,
+            "column": 4,
+            "letter": "Е"
+        },
+        {
+            "row": 2,
+            "column": 6,
+            "letter": "Е"
+        },
+        {
+            "row": 3,
+            "column": 0,
+            "letter": "Р"
+        },
+        {
+            "row": 3,
+            "column": 2,
+            "letter": "С"
+        },
+        {
+            "row": 3,
+            "column": 4,
+            "letter": "С"
+        },
+        {
+            "row": 3,
+            "column": 5,
+            "letter": "У"
+        },
+        {
+            "row": 3,
+            "column": 6,
+            "letter": "П"
+        },
+        {
+            "row": 4,
+            "column": 0,
+            "letter": "П"
+        }
+    ],
+    "words": [
+        {
+            "word": "СУПЕР",
+            "letters": [
+                {
+                    "row": 1,
+                    "column": 0,
+                    "letter": "С"
+                },
+                {
+                    "row": 1,
+                    "column": 1,
+                    "letter": "У"
+                },
+                {
+                    "row": 1,
+                    "column": 2,
+                    "letter": "П"
+                },
+                {
+                    "row": 1,
+                    "column": 3,
+                    "letter": "Е"
+                },
+                {
+                    "row": 1,
+                    "column": 4,
+                    "letter": "Р"
+                }
+            ]
+        },
+        {
+            "word": "СУП",
+            "letters": [
+                {
+                    "row": 3,
+                    "column": 4,
+                    "letter": "С"
+                },
+                {
+                    "row": 3,
+                    "column": 5,
+                    "letter": "У"
+                },
+                {
+                    "row": 3,
+                    "column": 6,
+                    "letter": "П"
+                }
+            ]
+        },
+        {
+            "word": "СЕРП",
+            "letters": [
+                {
+                    "row": 1,
+                    "column": 0,
+                    "letter": "С"
+                },
+                {
+                    "row": 2,
+                    "column": 0,
+                    "letter": "Е"
+                },
+                {
+                    "row": 3,
+                    "column": 0,
+                    "letter": "Р"
+                },
+                {
+                    "row": 4,
+                    "column": 0,
+                    "letter": "П"
+                }
+            ]
+        },
+        {
+            "word": "ПЕС",
+            "letters": [
+                {
+                    "row": 1,
+                    "column": 2,
+                    "letter": "П"
+                },
+                {
+                    "row": 2,
+                    "column": 2,
+                    "letter": "Е"
+                },
+                {
+                    "row": 3,
+                    "column": 2,
+                    "letter": "С"
+                }
+            ]
+        },
+        {
+            "word": "ПРЕС",
+            "letters": [
+                {
+                    "row": 0,
+                    "column": 4,
+                    "letter": "П"
+                },
+                {
+                    "row": 1,
+                    "column": 4,
+                    "letter": "Р"
+                },
+                {
+                    "row": 2,
+                    "column": 4,
+                    "letter": "Е"
+                },
+                {
+                    "row": 3,
+                    "column": 4,
+                    "letter": "С"
+                }
+            ]
+        },
+        {
+            "word": "РЕП",
+            "letters": [
+                {
+                    "row": 1,
+                    "column": 6,
+                    "letter": "Р"
+                },
+                {
+                    "row": 2,
+                    "column": 6,
+                    "letter": "Е"
+                },
+                {
+                    "row": 3,
+                    "column": 6,
+                    "letter": "П"
+                }
+            ]
+        }
+    ],
+    "wordLetterCount": [
+        {
+            "letter": 1057,
+            "count": 1
+        },
+        {
+            "letter": 1059,
+            "count": 1
+        },
+        {
+            "letter": 1055,
+            "count": 1
+        },
+        {
+            "letter": 1045,
+            "count": 1
+        },
+        {
+            "letter": 1056,
+            "count": 1
+        }
+    ]
+}

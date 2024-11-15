@@ -1,0 +1,228 @@
+{
+    "level": 3,
+    "gridSize": {
+        "rows": 5,
+        "columns": 6
+    },
+    "letters": [
+        {
+            "row": 0,
+            "column": 0,
+            "letter": "Г"
+        },
+        {
+            "row": 0,
+            "column": 1,
+            "letter": "А"
+        },
+        {
+            "row": 0,
+            "column": 2,
+            "letter": "З"
+        },
+        {
+            "row": 0,
+            "column": 5,
+            "letter": "Г"
+        },
+        {
+            "row": 1,
+            "column": 1,
+            "letter": "Р"
+        },
+        {
+            "row": 1,
+            "column": 3,
+            "letter": "Г"
+        },
+        {
+            "row": 1,
+            "column": 5,
+            "letter": "Р"
+        },
+        {
+            "row": 2,
+            "column": 1,
+            "letter": "Г"
+        },
+        {
+            "row": 2,
+            "column": 2,
+            "letter": "Р"
+        },
+        {
+            "row": 2,
+            "column": 3,
+            "letter": "О"
+        },
+        {
+            "row": 2,
+            "column": 4,
+            "letter": "З"
+        },
+        {
+            "row": 2,
+            "column": 5,
+            "letter": "А"
+        },
+        {
+            "row": 3,
+            "column": 1,
+            "letter": "О"
+        },
+        {
+            "row": 3,
+            "column": 3,
+            "letter": "Р"
+        },
+        {
+            "row": 4,
+            "column": 3,
+            "letter": "А"
+        }
+    ],
+    "words": [
+        {
+            "word": "ГАЗ",
+            "letters": [
+                {
+                    "row": 0,
+                    "column": 0,
+                    "letter": "Г"
+                },
+                {
+                    "row": 0,
+                    "column": 1,
+                    "letter": "А"
+                },
+                {
+                    "row": 0,
+                    "column": 2,
+                    "letter": "З"
+                }
+            ]
+        },
+        {
+            "word": "ГРОЗА",
+            "letters": [
+                {
+                    "row": 2,
+                    "column": 1,
+                    "letter": "Г"
+                },
+                {
+                    "row": 2,
+                    "column": 2,
+                    "letter": "Р"
+                },
+                {
+                    "row": 2,
+                    "column": 3,
+                    "letter": "О"
+                },
+                {
+                    "row": 2,
+                    "column": 4,
+                    "letter": "З"
+                },
+                {
+                    "row": 2,
+                    "column": 5,
+                    "letter": "А"
+                }
+            ]
+        },
+        {
+            "word": "АРГО",
+            "letters": [
+                {
+                    "row": 0,
+                    "column": 1,
+                    "letter": "А"
+                },
+                {
+                    "row": 1,
+                    "column": 1,
+                    "letter": "Р"
+                },
+                {
+                    "row": 2,
+                    "column": 1,
+                    "letter": "Г"
+                },
+                {
+                    "row": 3,
+                    "column": 1,
+                    "letter": "О"
+                }
+            ]
+        },
+        {
+            "word": "ГОРА",
+            "letters": [
+                {
+                    "row": 1,
+                    "column": 3,
+                    "letter": "Г"
+                },
+                {
+                    "row": 2,
+                    "column": 3,
+                    "letter": "О"
+                },
+                {
+                    "row": 3,
+                    "column": 3,
+                    "letter": "Р"
+                },
+                {
+                    "row": 4,
+                    "column": 3,
+                    "letter": "А"
+                }
+            ]
+        },
+        {
+            "word": "ГРА",
+            "letters": [
+                {
+                    "row": 0,
+                    "column": 5,
+                    "letter": "Г"
+                },
+                {
+                    "row": 1,
+                    "column": 5,
+                    "letter": "Р"
+                },
+                {
+                    "row": 2,
+                    "column": 5,
+                    "letter": "А"
+                }
+            ]
+        }
+    ],
+    "wordLetterCount": [
+        {
+            "letter": 1043,
+            "count": 1
+        },
+        {
+            "letter": 1040,
+            "count": 1
+        },
+        {
+            "letter": 1047,
+            "count": 1
+        },
+        {
+            "letter": 1056,
+            "count": 1
+        },
+        {
+            "letter": 1054,
+            "count": 1
+        }
+    ]
+}

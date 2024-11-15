@@ -1,0 +1,228 @@
+{
+    "level": 6,
+    "gridSize": {
+        "rows": 5,
+        "columns": 6
+    },
+    "letters": [
+        {
+            "row": 0,
+            "column": 0,
+            "letter": "С"
+        },
+        {
+            "row": 0,
+            "column": 1,
+            "letter": "І"
+        },
+        {
+            "row": 0,
+            "column": 2,
+            "letter": "М"
+        },
+        {
+            "row": 1,
+            "column": 2,
+            "letter": "І"
+        },
+        {
+            "row": 1,
+            "column": 4,
+            "letter": "М"
+        },
+        {
+            "row": 2,
+            "column": 2,
+            "letter": "С"
+        },
+        {
+            "row": 2,
+            "column": 3,
+            "letter": "В"
+        },
+        {
+            "row": 2,
+            "column": 4,
+            "letter": "І"
+        },
+        {
+            "row": 2,
+            "column": 5,
+            "letter": "Т"
+        },
+        {
+            "row": 3,
+            "column": 4,
+            "letter": "С"
+        },
+        {
+            "row": 4,
+            "column": 0,
+            "letter": "В"
+        },
+        {
+            "row": 4,
+            "column": 1,
+            "letter": "М"
+        },
+        {
+            "row": 4,
+            "column": 2,
+            "letter": "І"
+        },
+        {
+            "row": 4,
+            "column": 3,
+            "letter": "С"
+        },
+        {
+            "row": 4,
+            "column": 4,
+            "letter": "Т"
+        }
+    ],
+    "words": [
+        {
+            "word": "СІМ",
+            "letters": [
+                {
+                    "row": 0,
+                    "column": 0,
+                    "letter": "С"
+                },
+                {
+                    "row": 0,
+                    "column": 1,
+                    "letter": "І"
+                },
+                {
+                    "row": 0,
+                    "column": 2,
+                    "letter": "М"
+                }
+            ]
+        },
+        {
+            "word": "СВІТ",
+            "letters": [
+                {
+                    "row": 2,
+                    "column": 2,
+                    "letter": "С"
+                },
+                {
+                    "row": 2,
+                    "column": 3,
+                    "letter": "В"
+                },
+                {
+                    "row": 2,
+                    "column": 4,
+                    "letter": "І"
+                },
+                {
+                    "row": 2,
+                    "column": 5,
+                    "letter": "Т"
+                }
+            ]
+        },
+        {
+            "word": "ВМІСТ",
+            "letters": [
+                {
+                    "row": 4,
+                    "column": 0,
+                    "letter": "В"
+                },
+                {
+                    "row": 4,
+                    "column": 1,
+                    "letter": "М"
+                },
+                {
+                    "row": 4,
+                    "column": 2,
+                    "letter": "І"
+                },
+                {
+                    "row": 4,
+                    "column": 3,
+                    "letter": "С"
+                },
+                {
+                    "row": 4,
+                    "column": 4,
+                    "letter": "Т"
+                }
+            ]
+        },
+        {
+            "word": "МІС",
+            "letters": [
+                {
+                    "row": 0,
+                    "column": 2,
+                    "letter": "М"
+                },
+                {
+                    "row": 1,
+                    "column": 2,
+                    "letter": "І"
+                },
+                {
+                    "row": 2,
+                    "column": 2,
+                    "letter": "С"
+                }
+            ]
+        },
+        {
+            "word": "МІСТ",
+            "letters": [
+                {
+                    "row": 1,
+                    "column": 4,
+                    "letter": "М"
+                },
+                {
+                    "row": 2,
+                    "column": 4,
+                    "letter": "І"
+                },
+                {
+                    "row": 3,
+                    "column": 4,
+                    "letter": "С"
+                },
+                {
+                    "row": 4,
+                    "column": 4,
+                    "letter": "Т"
+                }
+            ]
+        }
+    ],
+    "wordLetterCount": [
+        {
+            "letter": 1057,
+            "count": 1
+        },
+        {
+            "letter": 1030,
+            "count": 1
+        },
+        {
+            "letter": 1052,
+            "count": 1
+        },
+        {
+            "letter": 1042,
+            "count": 1
+        },
+        {
+            "letter": 1058,
+            "count": 1
+        }
+    ]
+}

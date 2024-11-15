@@ -1,0 +1,288 @@
+{
+    "level": 4,
+    "gridSize": {
+        "rows": 6,
+        "columns": 7
+    },
+    "letters": [
+        {
+            "row": 0,
+            "column": 0,
+            "letter": "Р"
+        },
+        {
+            "row": 0,
+            "column": 3,
+            "letter": "М"
+        },
+        {
+            "row": 0,
+            "column": 4,
+            "letter": "У"
+        },
+        {
+            "row": 0,
+            "column": 5,
+            "letter": "Р"
+        },
+        {
+            "row": 1,
+            "column": 0,
+            "letter": "У"
+        },
+        {
+            "row": 1,
+            "column": 4,
+            "letter": "Х"
+        },
+        {
+            "row": 2,
+            "column": 0,
+            "letter": "Х"
+        },
+        {
+            "row": 2,
+            "column": 1,
+            "letter": "У"
+        },
+        {
+            "row": 2,
+            "column": 2,
+            "letter": "Р"
+        },
+        {
+            "row": 2,
+            "column": 3,
+            "letter": "М"
+        },
+        {
+            "row": 2,
+            "column": 4,
+            "letter": "А"
+        },
+        {
+            "row": 3,
+            "column": 3,
+            "letter": "У"
+        },
+        {
+            "row": 4,
+            "column": 3,
+            "letter": "Х"
+        },
+        {
+            "row": 4,
+            "column": 4,
+            "letter": "Р"
+        },
+        {
+            "row": 4,
+            "column": 5,
+            "letter": "А"
+        },
+        {
+            "row": 4,
+            "column": 6,
+            "letter": "М"
+        },
+        {
+            "row": 5,
+            "column": 1,
+            "letter": "У"
+        },
+        {
+            "row": 5,
+            "column": 2,
+            "letter": "Р"
+        },
+        {
+            "row": 5,
+            "column": 3,
+            "letter": "А"
+        }
+    ],
+    "words": [
+        {
+            "word": "МУР",
+            "letters": [
+                {
+                    "row": 0,
+                    "column": 3,
+                    "letter": "М"
+                },
+                {
+                    "row": 0,
+                    "column": 4,
+                    "letter": "У"
+                },
+                {
+                    "row": 0,
+                    "column": 5,
+                    "letter": "Р"
+                }
+            ]
+        },
+        {
+            "word": "ХУРМА",
+            "letters": [
+                {
+                    "row": 2,
+                    "column": 0,
+                    "letter": "Х"
+                },
+                {
+                    "row": 2,
+                    "column": 1,
+                    "letter": "У"
+                },
+                {
+                    "row": 2,
+                    "column": 2,
+                    "letter": "Р"
+                },
+                {
+                    "row": 2,
+                    "column": 3,
+                    "letter": "М"
+                },
+                {
+                    "row": 2,
+                    "column": 4,
+                    "letter": "А"
+                }
+            ]
+        },
+        {
+            "word": "ХРАМ",
+            "letters": [
+                {
+                    "row": 4,
+                    "column": 3,
+                    "letter": "Х"
+                },
+                {
+                    "row": 4,
+                    "column": 4,
+                    "letter": "Р"
+                },
+                {
+                    "row": 4,
+                    "column": 5,
+                    "letter": "А"
+                },
+                {
+                    "row": 4,
+                    "column": 6,
+                    "letter": "М"
+                }
+            ]
+        },
+        {
+            "word": "УРА",
+            "letters": [
+                {
+                    "row": 5,
+                    "column": 1,
+                    "letter": "У"
+                },
+                {
+                    "row": 5,
+                    "column": 2,
+                    "letter": "Р"
+                },
+                {
+                    "row": 5,
+                    "column": 3,
+                    "letter": "А"
+                }
+            ]
+        },
+        {
+            "word": "РУХ",
+            "letters": [
+                {
+                    "row": 0,
+                    "column": 0,
+                    "letter": "Р"
+                },
+                {
+                    "row": 1,
+                    "column": 0,
+                    "letter": "У"
+                },
+                {
+                    "row": 2,
+                    "column": 0,
+                    "letter": "Х"
+                }
+            ]
+        },
+        {
+            "word": "МУХА",
+            "letters": [
+                {
+                    "row": 2,
+                    "column": 3,
+                    "letter": "М"
+                },
+                {
+                    "row": 3,
+                    "column": 3,
+                    "letter": "У"
+                },
+                {
+                    "row": 4,
+                    "column": 3,
+                    "letter": "Х"
+                },
+                {
+                    "row": 5,
+                    "column": 3,
+                    "letter": "А"
+                }
+            ]
+        },
+        {
+            "word": "УХА",
+            "letters": [
+                {
+                    "row": 0,
+                    "column": 4,
+                    "letter": "У"
+                },
+                {
+                    "row": 1,
+                    "column": 4,
+                    "letter": "Х"
+                },
+                {
+                    "row": 2,
+                    "column": 4,
+                    "letter": "А"
+                }
+            ]
+        }
+    ],
+    "wordLetterCount": [
+        {
+            "letter": 1052,
+            "count": 1
+        },
+        {
+            "letter": 1059,
+            "count": 1
+        },
+        {
+            "letter": 1056,
+            "count": 1
+        },
+        {
+            "letter": 1061,
+            "count": 1
+        },
+        {
+            "letter": 1040,
+            "count": 1
+        }
+    ]
+}

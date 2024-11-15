@@ -1,0 +1,134 @@
+{
+    "level": 1,
+    "gridSize": {
+        "rows": 3,
+        "columns": 4
+    },
+    "letters": [
+        {
+            "row": 0,
+            "column": 0,
+            "letter": "Л"
+        },
+        {
+            "row": 0,
+            "column": 1,
+            "letter": "И"
+        },
+        {
+            "row": 0,
+            "column": 2,
+            "letter": "С"
+        },
+        {
+            "row": 0,
+            "column": 3,
+            "letter": "Т"
+        },
+        {
+            "row": 1,
+            "column": 0,
+            "letter": "И"
+        },
+        {
+            "row": 1,
+            "column": 3,
+            "letter": "И"
+        },
+        {
+            "row": 2,
+            "column": 0,
+            "letter": "С"
+        },
+        {
+            "row": 2,
+            "column": 3,
+            "letter": "Л"
+        }
+    ],
+    "words": [
+        {
+            "word": "ЛИСТ",
+            "letters": [
+                {
+                    "row": 0,
+                    "column": 0,
+                    "letter": "Л"
+                },
+                {
+                    "row": 0,
+                    "column": 1,
+                    "letter": "И"
+                },
+                {
+                    "row": 0,
+                    "column": 2,
+                    "letter": "С"
+                },
+                {
+                    "row": 0,
+                    "column": 3,
+                    "letter": "Т"
+                }
+            ]
+        },
+        {
+            "word": "ЛИС",
+            "letters": [
+                {
+                    "row": 0,
+                    "column": 0,
+                    "letter": "Л"
+                },
+                {
+                    "row": 1,
+                    "column": 0,
+                    "letter": "И"
+                },
+                {
+                    "row": 2,
+                    "column": 0,
+                    "letter": "С"
+                }
+            ]
+        },
+        {
+            "word": "ТИЛ",
+            "letters": [
+                {
+                    "row": 0,
+                    "column": 3,
+                    "letter": "Т"
+                },
+                {
+                    "row": 1,
+                    "column": 3,
+                    "letter": "И"
+                },
+                {
+                    "row": 2,
+                    "column": 3,
+                    "letter": "Л"
+                }
+            ]
+        }
+    ],
+    "wordLetterCount": [
+        {
+            "letter": 1051,
+            "count": 1
+        },
+        {
+            "letter": 1048,
+            "count": 1
+        },
+        {
+            "letter": 1057,
+            "count": 1
+        },
+        {
+            "letter": 1058,
+            "count": 1
+        }
+    ]
+}

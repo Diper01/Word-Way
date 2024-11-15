@@ -1,0 +1,198 @@
+{
+    "level": 2,
+    "gridSize": {
+        "rows": 5,
+        "columns": 6
+    },
+    "letters": [
+        {
+            "row": 0,
+            "column": 3,
+            "letter": "Д"
+        },
+        {
+            "row": 0,
+            "column": 4,
+            "letter": "В"
+        },
+        {
+            "row": 0,
+            "column": 5,
+            "letter": "А"
+        },
+        {
+            "row": 1,
+            "column": 0,
+            "letter": "Н"
+        },
+        {
+            "row": 1,
+            "column": 3,
+            "letter": "И"
+        },
+        {
+            "row": 2,
+            "column": 0,
+            "letter": "И"
+        },
+        {
+            "row": 2,
+            "column": 3,
+            "letter": "В"
+        },
+        {
+            "row": 3,
+            "column": 0,
+            "letter": "В"
+        },
+        {
+            "row": 3,
+            "column": 1,
+            "letter": "И"
+        },
+        {
+            "row": 3,
+            "column": 2,
+            "letter": "Н"
+        },
+        {
+            "row": 3,
+            "column": 3,
+            "letter": "А"
+        },
+        {
+            "row": 4,
+            "column": 0,
+            "letter": "А"
+        },
+        {
+            "row": 4,
+            "column": 3,
+            "letter": "Н"
+        }
+    ],
+    "words": [
+        {
+            "word": "ДВА",
+            "letters": [
+                {
+                    "row": 0,
+                    "column": 3,
+                    "letter": "Д"
+                },
+                {
+                    "row": 0,
+                    "column": 4,
+                    "letter": "В"
+                },
+                {
+                    "row": 0,
+                    "column": 5,
+                    "letter": "А"
+                }
+            ]
+        },
+        {
+            "word": "ВИНА",
+            "letters": [
+                {
+                    "row": 3,
+                    "column": 0,
+                    "letter": "В"
+                },
+                {
+                    "row": 3,
+                    "column": 1,
+                    "letter": "И"
+                },
+                {
+                    "row": 3,
+                    "column": 2,
+                    "letter": "Н"
+                },
+                {
+                    "row": 3,
+                    "column": 3,
+                    "letter": "А"
+                }
+            ]
+        },
+        {
+            "word": "НИВА",
+            "letters": [
+                {
+                    "row": 1,
+                    "column": 0,
+                    "letter": "Н"
+                },
+                {
+                    "row": 2,
+                    "column": 0,
+                    "letter": "И"
+                },
+                {
+                    "row": 3,
+                    "column": 0,
+                    "letter": "В"
+                },
+                {
+                    "row": 4,
+                    "column": 0,
+                    "letter": "А"
+                }
+            ]
+        },
+        {
+            "word": "ДИВАН",
+            "letters": [
+                {
+                    "row": 0,
+                    "column": 3,
+                    "letter": "Д"
+                },
+                {
+                    "row": 1,
+                    "column": 3,
+                    "letter": "И"
+                },
+                {
+                    "row": 2,
+                    "column": 3,
+                    "letter": "В"
+                },
+                {
+                    "row": 3,
+                    "column": 3,
+                    "letter": "А"
+                },
+                {
+                    "row": 4,
+                    "column": 3,
+                    "letter": "Н"
+                }
+            ]
+        }
+    ],
+    "wordLetterCount": [
+        {
+            "letter": 1044,
+            "count": 1
+        },
+        {
+            "letter": 1042,
+            "count": 1
+        },
+        {
+            "letter": 1040,
+            "count": 1
+        },
+        {
+            "letter": 1048,
+            "count": 1
+        },
+        {
+            "letter": 1053,
+            "count": 1
+        }
+    ]
+}

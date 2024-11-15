@@ -1,0 +1,259 @@
+{
+    "level": 8,
+    "gridSize": {
+        "rows": 5,
+        "columns": 6
+    },
+    "letters": [
+        {
+            "row": 0,
+            "column": 3,
+            "letter": "Б"
+        },
+        {
+            "row": 1,
+            "column": 0,
+            "letter": "Т"
+        },
+        {
+            "row": 1,
+            "column": 1,
+            "letter": "У"
+        },
+        {
+            "row": 1,
+            "column": 2,
+            "letter": "Б"
+        },
+        {
+            "row": 1,
+            "column": 3,
+            "letter": "А"
+        },
+        {
+            "row": 2,
+            "column": 0,
+            "letter": "А"
+        },
+        {
+            "row": 2,
+            "column": 3,
+            "letter": "Т"
+        },
+        {
+            "row": 2,
+            "column": 5,
+            "letter": "А"
+        },
+        {
+            "row": 3,
+            "column": 0,
+            "letter": "Т"
+        },
+        {
+            "row": 3,
+            "column": 1,
+            "letter": "А"
+        },
+        {
+            "row": 3,
+            "column": 2,
+            "letter": "Б"
+        },
+        {
+            "row": 3,
+            "column": 3,
+            "letter": "У"
+        },
+        {
+            "row": 3,
+            "column": 5,
+            "letter": "У"
+        },
+        {
+            "row": 4,
+            "column": 0,
+            "letter": "У"
+        },
+        {
+            "row": 4,
+            "column": 3,
+            "letter": "Т"
+        },
+        {
+            "row": 4,
+            "column": 4,
+            "letter": "У"
+        },
+        {
+            "row": 4,
+            "column": 5,
+            "letter": "Т"
+        }
+    ],
+    "words": [
+        {
+            "word": "ТУБА",
+            "letters": [
+                {
+                    "row": 1,
+                    "column": 0,
+                    "letter": "Т"
+                },
+                {
+                    "row": 1,
+                    "column": 1,
+                    "letter": "У"
+                },
+                {
+                    "row": 1,
+                    "column": 2,
+                    "letter": "Б"
+                },
+                {
+                    "row": 1,
+                    "column": 3,
+                    "letter": "А"
+                }
+            ]
+        },
+        {
+            "word": "ТАБУ",
+            "letters": [
+                {
+                    "row": 3,
+                    "column": 0,
+                    "letter": "Т"
+                },
+                {
+                    "row": 3,
+                    "column": 1,
+                    "letter": "А"
+                },
+                {
+                    "row": 3,
+                    "column": 2,
+                    "letter": "Б"
+                },
+                {
+                    "row": 3,
+                    "column": 3,
+                    "letter": "У"
+                }
+            ]
+        },
+        {
+            "word": "ТУТ",
+            "letters": [
+                {
+                    "row": 4,
+                    "column": 3,
+                    "letter": "Т"
+                },
+                {
+                    "row": 4,
+                    "column": 4,
+                    "letter": "У"
+                },
+                {
+                    "row": 4,
+                    "column": 5,
+                    "letter": "Т"
+                }
+            ]
+        },
+        {
+            "word": "ТАТУ",
+            "letters": [
+                {
+                    "row": 1,
+                    "column": 0,
+                    "letter": "Т"
+                },
+                {
+                    "row": 2,
+                    "column": 0,
+                    "letter": "А"
+                },
+                {
+                    "row": 3,
+                    "column": 0,
+                    "letter": "Т"
+                },
+                {
+                    "row": 4,
+                    "column": 0,
+                    "letter": "У"
+                }
+            ]
+        },
+        {
+            "word": "БАТУТ",
+            "letters": [
+                {
+                    "row": 0,
+                    "column": 3,
+                    "letter": "Б"
+                },
+                {
+                    "row": 1,
+                    "column": 3,
+                    "letter": "А"
+                },
+                {
+                    "row": 2,
+                    "column": 3,
+                    "letter": "Т"
+                },
+                {
+                    "row": 3,
+                    "column": 3,
+                    "letter": "У"
+                },
+                {
+                    "row": 4,
+                    "column": 3,
+                    "letter": "Т"
+                }
+            ]
+        },
+        {
+            "word": "АУТ",
+            "letters": [
+                {
+                    "row": 2,
+                    "column": 5,
+                    "letter": "А"
+                },
+                {
+                    "row": 3,
+                    "column": 5,
+                    "letter": "У"
+                },
+                {
+                    "row": 4,
+                    "column": 5,
+                    "letter": "Т"
+                }
+            ]
+        }
+    ],
+    "wordLetterCount": [
+        {
+            "letter": 1058,
+            "count": 2 
+        },
+        {
+            "letter": 1059,
+            "count": 1
+        },
+        {
+            "letter": 1041,
+            "count": 1
+        },
+        {
+            "letter": 1040,
+            "count": 1
+        }
+    ]
+}
