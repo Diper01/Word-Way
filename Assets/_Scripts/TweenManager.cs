@@ -7,7 +7,6 @@ using Image = UnityEngine.UI.Image;
 using Action = System.Action;
 
 
-//Animation Class
 public class TweenManager : Singleton<TweenManager>
 {
     public void CorrectWordsAnim(List<RectTransform> currentWordTxt, WordLocation wordLocation, List<Image> openedItems,
@@ -59,8 +58,7 @@ public class TweenManager : Singleton<TweenManager>
             end: new Color(1.0f, 0.7f, 0.6f),
             duration: 0.2f,
             scaleFunc: TweenScaleFunctions.QuadraticEaseInOut,
-            progress: (tween) => { cellImage.color = tween.CurrentValue; },
-            completion: (tween) => { Debug.Log("Color change completed."); }
+            progress: (tween) => { cellImage.color = tween.CurrentValue; }
         );
     }
 
@@ -119,9 +117,6 @@ public class TweenManager : Singleton<TweenManager>
         yield return new WaitForSeconds(time);
         newAction?.Invoke();
     }
-
-
-    private Dictionary<RectTransform, List<ITween>> activeTweens = new Dictionary<RectTransform, List<ITween>>();
 
     public void AnimateCircleObjectsLoop(RectTransform[] circleObjects, Action onInterrupt = null)
     {

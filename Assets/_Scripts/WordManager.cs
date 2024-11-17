@@ -34,8 +34,17 @@ public class WordManager
         }
     }
 
-    private bool IsNewWord(WordData wordData, string word) =>
-        wordData.word.Equals(word) && !GameManager.Instance._lvlManager.GetLevelSettings().wordsData.Contains(wordData);
+    private bool IsNewWord(WordData wordData, string word)
+    {
+        foreach (var worder in GameManager.Instance._lvlManager.GetLevelSettings().wordsData)
+        {
+            if (worder.word == word)
+                return false;
+        }
+
+        return wordData.word.Equals(word);
+    }
+
 
     private void AddWordToSaveAndAnimate(WordData wordData, string word)
     {
